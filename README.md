@@ -1,8 +1,9 @@
 # Go-Ascii-Art
 A JPEG image to ASCII art converter written in Go.
-Add images to /source-images for them to be converted.
+
 
 ## Getting started
+Add your own or the test images included to the source-images directory
 
 >go run main.go
 
